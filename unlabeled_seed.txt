@@ -1,0 +1,68 @@
+# Unlabeled seed lines for the Kimi teacher (label_with_kimi.py).
+# These are SYNTHETIC chat-style lines written Oct 31, 2026, modeled on the
+# public patterns in the love deep-research notes — NOT anyone's real chats.
+# Run: python label_with_kimi.py unlabeled_seed.txt --out labeled_kimi.tsv
+# Then add your own lines here (one per line) and re-run; already-labelled
+# lines are skipped, so it resumes where it stopped.
+did you eat yet
+drive safe love
+text me when you get home safe
+good morning beautiful
+i miss your laugh
+can't wait to see you tonight
+look, it's snowing
+you have to see this video
+remember when we first met
+i made your favorite soup
+ok
+whatever
+seen
+leave me alone
+i need space
+don't talk to me right now
+mmhm
+sure
+yep
+you always do this
+you never think about anyone but yourself
+why do you always have to be like this
+oh wow, another brilliant plan
+nice, you finally showed up
+great, now you've ruined it too
+sure, because you're always right
+it's not my fault the car broke
+well you started it
+i didn't do anything wrong
+don't blame me for your bad mood
+i'm sorry, can we try again
+let's figure this out together
+i didn't mean it like that, forgive me
+can we start over
+i love how you laugh at my jokes
+you looked really good today
+thank you for listening to me
+i'm proud of you
+i was thinking about you all day
+come here, i need a hug
+what are we doing this weekend
+i found the song you were humming
+your mom called, she says hi
+i saved you the last slice
+let's cook together tonight
+i'm sorry i was short with you earlier
+i know i messed up, let me make it right
+can we talk about this calmly
+i don't want to fight anymore
+you're the best thing that happened to me
+i feel safe with you
+goodnight, dream of me
+wake me up when you get home
+i bought you that book you wanted
+tell me about your day
+i'm here for you, always
+stop ignoring me
+answer me
+hello?
+are you even listening
+fine, do whatever you want
+i don't care anymore

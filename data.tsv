@@ -1,0 +1,265 @@
+# Love-chat seed dataset — v1
+# 180 hand-written example messages, 30 per class, 6 classes.
+# Written from Gottman's descriptions (Four Horsemen + bids + affection) and from
+# the public chat patterns in the love deep-research notes.
+# These are SEED / synthetic examples, not real private chats. Real-world accuracy
+# will be lower than the held-out seed accuracy — see README.md.
+# Format: text<TAB>label
+i love you so much	affection
+thank you for making dinner tonight	affection
+you looked so beautiful today	affection
+i missed you all day	affection
+i am so lucky to have you	affection
+you always know how to make me smile	affection
+i appreciate everything you do for us	affection
+good morning beautiful	affection
+i love the way you laugh	affection
+you are my favourite person	affection
+i am so proud of you	affection
+thank you for listening to me today	affection
+i love falling asleep next to you	affection
+you make ordinary days feel special	affection
+i love you more every day	affection
+sweet dreams my love	affection
+you are the best thing that ever happened to me	affection
+i love how kind you are	affection
+thank you for being patient with me	affection
+i cannot wait to see you tonight	affection
+you make me so happy	affection
+i love your smile	affection
+i am grateful for you	affection
+you are amazing and i love you	affection
+i love talking to you	affection
+you always make me feel safe	affection
+i adore you	affection
+thank you for the coffee this morning	affection
+i love our life together	affection
+you are my home	affection
+look at this sunset	bid
+guess what happened at work today	bid
+look at this dog i just saw	bid
+have you seen this video	bid
+look what i found	bid
+guess who i just ran into	bid
+check out this song	bid
+look at the moon tonight	bid
+you have to see this	bid
+look at this photo from today	bid
+guess what i am making for dinner	bid
+hey look at this meme	bid
+did you see the game last night	bid
+look at this cute cat	bid
+i just heard the funniest thing	bid
+look what the kids did today	bid
+have you tried this restaurant	bid
+guess what my boss said today	bid
+look at this view	bid
+check this out	bid
+you will not believe what just happened	bid
+look at this article i found	bid
+hey i made your favourite tea	bid
+did you hear that song on the radio	bid
+look at this picture of us	bid
+guess where i am right now	bid
+have you seen my keys	bid
+look at this new place that opened	bid
+i just saw the funniest dog	bid
+want to hear something funny	bid
+you always leave your clothes everywhere	criticism
+you never listen to me	criticism
+you are so selfish	criticism
+you never help around the house	criticism
+you always forget everything	criticism
+you are such a mess	criticism
+you never care about what i want	criticism
+you are always late	criticism
+you never think about anyone but yourself	criticism
+you are so lazy	criticism
+you always ruin everything	criticism
+you never say thank you	criticism
+you are impossible to talk to	criticism
+you never do anything right	criticism
+you are so irresponsible	criticism
+you always make the same mistakes	criticism
+you never support me	criticism
+you are so disorganised	criticism
+you never clean up after yourself	criticism
+you are always on your phone	criticism
+you never remember anything important	criticism
+you are so careless	criticism
+you always blame everyone else	criticism
+you never take me seriously	criticism
+you are so annoying	criticism
+you never plan anything	criticism
+you always interrupt me	criticism
+you are so stubborn	criticism
+you never apologise	criticism
+you always make me feel bad	criticism
+oh brilliant another genius idea	contempt
+wow you really outdid yourself this time	contempt
+nice one genius	contempt
+of course you forgot how surprising	contempt
+you are such a joke	contempt
+yeah right like you would know	contempt
+oh please spare me	contempt
+you call that cooking	contempt
+congratulations you finally did one thing right	contempt
+you are pathetic	contempt
+i am sure that was very hard for you	contempt
+wow amazing you remembered for once	contempt
+you are so dumb sometimes	contempt
+oh look who decided to show up	contempt
+that is the stupidest thing i have ever heard	contempt
+you are useless	contempt
+sure jan	contempt
+you really think you are so smart	contempt
+what a surprise you messed it up again	contempt
+you are embarrassing	contempt
+ha you actually believe that	contempt
+oh great the expert has arrived	contempt
+you could not organise a picnic	contempt
+that outfit really suits you not	contempt
+wow you are so mature	contempt
+i love how you always know nothing	contempt
+you are a real catch said no one ever	contempt
+nice try sweetheart	contempt
+you are the worst	contempt
+oh wow i am so impressed not	contempt
+it is not my fault	defensiveness
+well you did it too	defensiveness
+i only did that because you started it	defensiveness
+that is not what happened	defensiveness
+you are exaggerating	defensiveness
+i was just trying to help	defensiveness
+why are you always blaming me	defensiveness
+i did not mean it like that	defensiveness
+you do the same thing all the time	defensiveness
+it is not a big deal	defensiveness
+you are making this up	defensiveness
+i already said sorry what more do you want	defensiveness
+that is not fair	defensiveness
+you never told me that	defensiveness
+i was busy okay	defensiveness
+do not turn this around on me	defensiveness
+you are overreacting	defensiveness
+i did my best	defensiveness
+it was not that bad	defensiveness
+you always twist my words	defensiveness
+i am not the only one who does that	defensiveness
+why is everything my fault	defensiveness
+i did not know	defensiveness
+you should have told me earlier	defensiveness
+i was joking	defensiveness
+that is your problem not mine	defensiveness
+i cannot do everything	defensiveness
+you are being too sensitive	defensiveness
+i already explained this	defensiveness
+it was an accident	defensiveness
+fine	stonewalling
+whatever	stonewalling
+k	stonewalling
+ok	stonewalling
+leave me alone	stonewalling
+i do not want to talk about it	stonewalling
+forget it	stonewalling
+i am done talking	stonewalling
+mmhm	stonewalling
+sure	stonewalling
+whatever you say	stonewalling
+i am busy	stonewalling
+not now	stonewalling
+stop	stonewalling
+i do not care	stonewalling
+talk later	stonewalling
+yeah yeah	stonewalling
+i am going to sleep	stonewalling
+do what you want	stonewalling
+i have nothing to say	stonewalling
+okay whatever	stonewalling
+leave it	stonewalling
+i am not talking about this	stonewalling
+fine do whatever you want	stonewalling
+i am out	stonewalling
+whatever man	stonewalling
+seen	stonewalling
+i am tired of this	stonewalling
+nope	stonewalling
+k	stonewalling
+ok	stonewalling
+yeah	stonewalling
+sure	stonewalling
+mmhm	stonewalling
+lol	stonewalling
+haha	stonewalling
+cool	stonewalling
+seen	stonewalling
+nope	stonewalling
+fine	stonewalling
+ok.	stonewalling
+k.	stonewalling
+yeah sure	stonewalling
+hmm	stonewalling
+idk	stonewalling
+yep	stonewalling
+nah	stonewalling
+alright	stonewalling
+yes	stonewalling
+no	stonewalling
+maybe	stonewalling
+lol ok	stonewalling
+im fine	stonewalling
+im fine.	stonewalling
+oh wow you are so smart	contempt
+great job genius	contempt
+sure you did	contempt
+yeah right	contempt
+as if	contempt
+nice try	contempt
+good one	contempt
+wow impressive	contempt
+congrats on doing the bare minimum	contempt
+oh please	contempt
+give me a break	contempt
+you are hilarious	contempt
+okay expert	contempt
+whatever helps you sleep at night	contempt
+nice story	contempt
+cool story bro	contempt
+sure jan	contempt
+you really think so	contempt
+oh look who is talking	contempt
+what a joke	contempt
+we have only been talking a few days but i feel so close to you	affection
+as easy as breathing	affection
+okay love you	affection
+good morning my love	affection
+did you eat today	affection
+i made your favourite food	affection
+i miss your laugh	affection
+you are my favourite hello	affection
+i love you goodnight	affection
+thank you for today my love	affection
+look at this sunset photo	bid
+guess what my sister just did	bid
+did you see the snow today	bid
+look what i cooked	bid
+have you heard this song	bid
+look at this funny video	bid
+guess who called me today	bid
+did you see that movie trailer	bid
+you always do this	criticism
+you never think of me	criticism
+you are always so negative	criticism
+you never help me when i need it	criticism
+you are so inconsiderate	criticism
+you always forget my birthday	criticism
+you never listen	criticism
+you are always complaining	criticism
+i did not do anything wrong	defensiveness
+stop blaming me for everything	defensiveness
+you are the one who started this	defensiveness
+i was only trying to help you	defensiveness
+that is not my problem	defensiveness
+why do you always attack me	defensiveness
+i already told you	defensiveness
+it is not like i did it on purpose	defensiveness

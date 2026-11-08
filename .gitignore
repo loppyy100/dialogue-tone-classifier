@@ -1,0 +1,8 @@
+# Classifier repo push (tomorrow, Nov 8) — do NOT commit these:
+venv/
+__pycache__/
+*.pyc
+# Fine-tuned DistilBERT weights are 256 MB each — over GitHub's 100 MB
+# per-file limit. They stay out; the README will point to the Drive backup.
+*.safetensors
+# (model.pt, 394 KB, is fine to commit.)

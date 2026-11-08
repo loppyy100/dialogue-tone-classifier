@@ -1,0 +1,412 @@
+# Love-chat seed dataset — v1
+# 180 hand-written example messages, 30 per class, 6 classes.
+# Written from Gottman's descriptions (Four Horsemen + bids + affection) and from
+# the public chat patterns in the love deep-research notes.
+# These are SEED / synthetic examples, not real private chats. Real-world accuracy
+# will be lower than the held-out seed accuracy — see README.md.
+# Format: text<TAB>label
+alright	stonewalling
+as easy as breathing	affection
+as if	contempt
+bravo, slow clap for you	contempt
+can i have a do-over	repair
+can we hug and reset	repair
+can we pause and come back to this	repair
+can we talk about this properly	repair
+check out this recipe	bid
+check out this song	bid
+check this out	bid
+congrats on doing the bare minimum	contempt
+congratulations you finally did one thing right	contempt
+congratulations, you finally did something	contempt
+cool	stonewalling
+cool story bro	contempt
+did you eat today	affection
+did you eat yet	affection
+did you hear about the new cafe	bid
+did you hear that song	bid
+did you hear that song on the radio	bid
+did you notice the lights	bid
+did you see that movie trailer	bid
+did you see the game	bid
+did you see the game last night	bid
+did you see the snow today	bid
+did you see the sunset today	bid
+did you see what she posted	bid
+do not turn this around on me	defensiveness
+do what you want	stonewalling
+don't lecture me	defensiveness
+don't look at me, ask him	defensiveness
+don't talk to me	stonewalling
+drive safe love	affection
+drop it	stonewalling
+end of discussion	stonewalling
+everyone makes mistakes, get over it	defensiveness
+fine	stonewalling
+fine do whatever you want	stonewalling
+forget it	stonewalling
+give me a break	contempt
+go away	stonewalling
+go on, enlighten us	contempt
+good morning beautiful	affection
+good morning my love	affection
+good night, sleep well my love	affection
+good one	contempt
+great job genius	contempt
+guess what happened at work	bid
+guess what happened at work today	bid
+guess what i am making for dinner	bid
+guess what i found	bid
+guess what i'm thinking	bid
+guess what my boss said today	bid
+guess what my mum just said	bid
+guess what my sister just did	bid
+guess where i am right now	bid
+guess who called me today	bid
+guess who i just ran into	bid
+guess who just texted me	bid
+ha you actually believe that	contempt
+haha	stonewalling
+have you ever tried this	bid
+have you heard this song	bid
+have you seen my keys	bid
+have you seen this video	bid
+have you tried this restaurant	bid
+have you tried this song yet	bid
+hey i made your favourite tea	bid
+hey look at this meme	bid
+hmm	stonewalling
+how can i make this right	repair
+how cute, you tried	contempt
+how original	contempt
+i adore you	affection
+i already explained this	defensiveness
+i already said sorry what more do you want	defensiveness
+i already said sorry, what more do you want	defensiveness
+i already told you	defensiveness
+i am busy	stonewalling
+i am done talking	stonewalling
+i am going to sleep	stonewalling
+i am grateful for you	affection
+i am not talking about this	stonewalling
+i am not the only one who does that	defensiveness
+i am out	stonewalling
+i am so lucky to have you	affection
+i am so proud of you	affection
+i am sure that was very hard for you	contempt
+i am tired of this	stonewalling
+i appreciate everything you do for us	affection
+i brought you coffee	affection
+i can't do anything right with you	defensiveness
+i can't stop thinking about you	affection
+i cannot do everything	defensiveness
+i cannot wait to see you tonight	affection
+i did my best	defensiveness
+i did my best, okay	defensiveness
+i did not do anything wrong	defensiveness
+i did not know	defensiveness
+i did not mean it like that	defensiveness
+i didn't do anything wrong	defensiveness
+i didn't mean it like that, forgive me	repair
+i didn't mean it that way	defensiveness
+i do not care	stonewalling
+i do not want to talk about it	stonewalling
+i don't have to explain myself	defensiveness
+i don't want to talk about it	stonewalling
+i have nothing to say	stonewalling
+i hear you, i'll do better	repair
+i just heard the funniest thing	bid
+i just saw the funniest dog	bid
+i know i hurt you, i'm sorry	repair
+i love falling asleep next to you	affection
+i love how kind you are	affection
+i love how you always know nothing	contempt
+i love our life together	affection
+i love our little routines	affection
+i love talking to you	affection
+i love the way you care for me	affection
+i love the way you laugh	affection
+i love you goodnight	affection
+i love you more every day	affection
+i love you so much	affection
+i love you too much to leave it like this	repair
+i love you, always	affection
+i love your smile	affection
+i made your favourite food	affection
+i messed up, help me fix it	repair
+i miss your hugs	affection
+i miss your laugh	affection
+i missed you all day	affection
+i need space	stonewalling
+i only did that because you started it	defensiveness
+i overreacted, i'm sorry	repair
+i saved you the last piece	affection
+i want to fix this, not fight	repair
+i want to make it up to you this weekend	repair
+i want to understand your side	repair
+i was busy okay	defensiveness
+i was busy, that's why	defensiveness
+i was defensive, you were right	repair
+i was joking	defensiveness
+i was just joking, relax	defensiveness
+i was just trying to help	defensiveness
+i was only trying to help you	defensiveness
+i was wrong, let me make it up to you	repair
+i'd explain it but you'd never get it	contempt
+i'll work on it, i promise	repair
+i'm done talking	stonewalling
+i'm lucky to wake up next to you	affection
+i'm not listening	stonewalling
+i'm not the one who started this	defensiveness
+i'm proud of the person you are	affection
+i'm so glad you're mine	affection
+i'm sorry for shutting down earlier	repair
+i'm sorry i raised my voice	repair
+i'm sorry, can we try again	repair
+i'm sorry, that came out wrong	repair
+idk	stonewalling
+im fine	stonewalling
+im fine.	stonewalling
+it is not a big deal	defensiveness
+it is not like i did it on purpose	defensiveness
+it is not my fault	defensiveness
+it was an accident	defensiveness
+it was not that bad	defensiveness
+it's not like you never mess up	defensiveness
+it's not my fault	defensiveness
+it's your fault too	defensiveness
+k	stonewalling
+k.	stonewalling
+leave it	stonewalling
+leave me alone	stonewalling
+let's figure this out together	repair
+let's not go to bed angry	repair
+let's start over on this one	repair
+let's take a breath and talk	repair
+let's talk when we're both calm	repair
+lol	stonewalling
+lol ok	stonewalling
+look at the moon	bid
+look at the moon tonight	bid
+look at this article i found	bid
+look at this cloud, it looks like a dog	bid
+look at this cute cat	bid
+look at this dog i just saw	bid
+look at this funny video	bid
+look at this new place that opened	bid
+look at this old photo	bid
+look at this photo from today	bid
+look at this photo of us	bid
+look at this picture of us	bid
+look at this reel	bid
+look at this sunset	bid
+look at this sunset photo	bid
+look at this view	bid
+look what i cooked	bid
+look what i found	bid
+look what the kids did today	bid
+look, it's snowing	bid
+look, the dog is asleep on your shoes	bid
+maybe	stonewalling
+mmhm	stonewalling
+nah	stonewalling
+nice job, as always	contempt
+nice one genius	contempt
+nice story	contempt
+nice try	contempt
+nice try sweetheart	contempt
+nice try, sweetheart	contempt
+no	stonewalling
+nope	stonewalling
+not now	stonewalling
+not talking about this	stonewalling
+of course you forgot how surprising	contempt
+oh brilliant another genius idea	contempt
+oh brilliant, another genius idea	contempt
+oh great the expert has arrived	contempt
+oh great, the expert speaks	contempt
+oh look who decided to show up	contempt
+oh look who is talking	contempt
+oh look, the king has arrived	contempt
+oh no, don't strain yourself	contempt
+oh please	contempt
+oh please spare me	contempt
+oh please, spare me	contempt
+oh wow i am so impressed not	contempt
+oh wow you are so smart	contempt
+oh, i'm so impressed	contempt
+ok	stonewalling
+ok.	stonewalling
+okay expert	contempt
+okay love you	affection
+okay whatever	stonewalling
+seen	stonewalling
+stop	stonewalling
+stop attacking me	defensiveness
+stop blaming me for everything	defensiveness
+sure	stonewalling
+sure jan	contempt
+sure you did	contempt
+sure, and i'm the queen	contempt
+sweet dreams my love	affection
+talk later	stonewalling
+talk to the wall	stonewalling
+tell me what you need from me	repair
+text me when you get home safe	affection
+thank you for being patient with me	affection
+thank you for choosing me	affection
+thank you for listening to me today	affection
+thank you for making dinner tonight	affection
+thank you for telling me, i'll listen now	repair
+thank you for the coffee this morning	affection
+thank you for today my love	affection
+thank you for today, it was perfect	affection
+that is not fair	defensiveness
+that is not my problem	defensiveness
+that is not what happened	defensiveness
+that is the stupidest thing i have ever heard	contempt
+that is your problem not mine	defensiveness
+that outfit really suits you not	contempt
+that's not what happened	defensiveness
+thinking of you today	affection
+want to hear something funny	bid
+want to try the new place	bid
+want to watch a film tonight	bid
+we have only been talking a few days but i feel so close to you	affection
+well you did it first	defensiveness
+well you did it too	defensiveness
+what a joke	contempt
+what a surprise you messed it up again	contempt
+what a surprise, you messed up again	contempt
+whatever	stonewalling
+whatever helps you sleep at night	contempt
+whatever man	stonewalling
+whatever you say	stonewalling
+why are you always blaming me	defensiveness
+why do you always attack me	defensiveness
+why is everything my fault	defensiveness
+wow amazing you remembered for once	contempt
+wow impressive	contempt
+wow you are so mature	contempt
+wow you really outdid yourself this time	contempt
+wow, did you think of that all by yourself	contempt
+wow, you're so smart	contempt
+yeah	stonewalling
+yeah right	contempt
+yeah right like you would know	contempt
+yeah right, like you'd know	contempt
+yeah sure	stonewalling
+yeah yeah	stonewalling
+yeah, because you're always right	contempt
+yeah, that's exactly what happened, sure	contempt
+yep	stonewalling
+yes	stonewalling
+you always blame everyone else	criticism
+you always bring up the past	defensiveness
+you always criticise me	criticism
+you always do this	criticism
+you always forget everything	criticism
+you always forget my birthday	criticism
+you always forget the important things	criticism
+you always have to be right	criticism
+you always ignore me	criticism
+you always interrupt me	criticism
+you always know how to make me smile	affection
+you always know what i need	affection
+you always leave a mess	criticism
+you always leave your clothes everywhere	criticism
+you always make everything about you	criticism
+you always make me feel bad	criticism
+you always make me feel safe	affection
+you always make the same mistakes	criticism
+you always overreact	criticism
+you always ruin everything	criticism
+you always take her side	criticism
+you always twist my words	defensiveness
+you are a real catch said no one ever	contempt
+you are always complaining	criticism
+you are always late	criticism
+you are always on your phone	criticism
+you are always so negative	criticism
+you are amazing and i love you	affection
+you are being too sensitive	defensiveness
+you are embarrassing	contempt
+you are exaggerating	defensiveness
+you are hilarious	contempt
+you are impossible to talk to	criticism
+you are making this up	defensiveness
+you are my favourite hello	affection
+you are my favourite person	affection
+you are my favourite person in the world	affection
+you are my home	affection
+you are my safe place	affection
+you are overreacting	defensiveness
+you are pathetic	contempt
+you are so annoying	criticism
+you are so careless	criticism
+you are so disorganised	criticism
+you are so dumb sometimes	contempt
+you are so inconsiderate	criticism
+you are so irresponsible	criticism
+you are so lazy	criticism
+you are so selfish	criticism
+you are so stubborn	criticism
+you are such a joke	contempt
+you are such a mess	criticism
+you are the best thing that ever happened to me	affection
+you are the one who started this	defensiveness
+you are the worst	contempt
+you are useless	contempt
+you call that cooking	contempt
+you could not organise a picnic	contempt
+you deserve better than that from me	repair
+you do the same thing all the time	defensiveness
+you don't care about anyone but yourself	criticism
+you don't understand the situation	defensiveness
+you have to see this	bid
+you looked after me when i was sick, thank you	affection
+you looked so beautiful today	affection
+you make me so happy	affection
+you make my bad days better	affection
+you make ordinary days feel special	affection
+you never apologise	criticism
+you never care about what i want	criticism
+you never clean up after yourself	criticism
+you never do anything right	criticism
+you never do what you promise	criticism
+you never help around the house	criticism
+you never help me when i need it	criticism
+you never listen	criticism
+you never listen to a word i say	criticism
+you never listen to me	criticism
+you never notice what i do	criticism
+you never plan anything	criticism
+you never put me first	criticism
+you never remember anything important	criticism
+you never say thank you	criticism
+you never support me	criticism
+you never take me seriously	criticism
+you never think about anyone but yourself	criticism
+you never think before you speak	criticism
+you never think of me	criticism
+you never told me that	defensiveness
+you really think so	contempt
+you really think you are so smart	contempt
+you should have told me earlier	defensiveness
+you will not believe what just happened	bid
+you're a real catch, aren't you	contempt
+you're a terrible listener	criticism
+you're hilarious, truly	contempt
+you're impossible to talk to	criticism
+you're just like your father	criticism
+you're lazy and you know it	criticism
+you're making a big deal out of nothing	defensiveness
+you're overreacting, it was nothing	defensiveness
+you're pathetic, honestly	contempt
+you're right, i should have listened	repair
+you're so careless with money	criticism
+you're so irresponsible	criticism
+you're so selfish	criticism
+you're so stubborn	criticism
+you're twisting my words	defensiveness
+your laugh is my favourite sound	affection
